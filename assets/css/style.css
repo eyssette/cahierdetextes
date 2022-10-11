@@ -94,9 +94,6 @@ h6 {
     font-size:0.825em;
 }
 
-.container-lg h4 span {
-    opacity: 1 !important;
-}
 
 
 
@@ -113,18 +110,6 @@ span.na, span.pi, span.s {
 
 span.s {
     font-style:normal!important;
-}
-
-h3 span {
-    opacity: 0.8 !important;
-    font-size: 0.73em !important;
-    display: block !important;
-    margin-left: 0.5em !important;
-    margin-top: 3px !important
-}
-
-h3 span {
-    color: #A31E00 !important;
 }
 
 ul,
@@ -220,7 +205,7 @@ em a {
         width: 170px;
     }
 
-    code:hover, span:hover {
+    code:hover, code span:hover {
         color: #660000 !important;
         border-left: 1px solid #660000 !important;
     }
