@@ -240,6 +240,9 @@ em a {
     .container-lg {
         padding: 10px !important
     }
+    ul li {
+        margin-left:-0.75em!important;
+    }
 }
 
 ol ol {
