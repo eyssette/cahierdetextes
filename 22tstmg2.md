@@ -35,7 +35,7 @@ Par groupe, faites au moins l'un de ces exercices :
 
 *[Lien vers le cours en ligne](https://eyssette.github.io/cours/philo22t/c/s1-ch1-q1.html#q1a--la-libert%C3%A9-consiste-t-elle-%C3%A0-satisfaire-tous-ses-d%C3%A9sirs-)*
 
-- Extrait du <i>Loup de Wall-Street</i> : les deux interprétations possibles de ce trader, Jordan Belfort `Lundi 12 septembre : Jusqu'au visionnage de l'extrait du <i>Loup de Wall-Street</i>`
+- Extrait du <i>Loup de Wall-Street</i> : les deux interprétations possibles de ce trader, Jordan Belfort `Lundi 12 septembre : Jusqu'au visionnage de l'extrait du Loup de Wall-Street`
 
 
 ##### I – La liberté comme puissance d'agir sans limites (Calliclès)
