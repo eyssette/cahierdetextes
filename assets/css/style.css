@@ -201,7 +201,8 @@ body:not(.night) h6 {
     margin-left: 1em !important
 }
 
-ins {
+code {
+    font-family: inherit;
     font-size: 0.6em;
     text-decoration: none;
     font-style: normal !important;
@@ -211,7 +212,7 @@ ins {
     padding-left: 10px
 }
 
-ins span {
+code span {
     font-size: 0.8em;
 }
 
@@ -226,13 +227,13 @@ ins span {
 }
 
 @media screen and (min-width: 600px) {
-    ins {
+    code {
         float: right;
         display: block;
         width: 170px;
     }
 
-    ins:hover {
+    code:hover {
         color: #660000 !important;
         border-left: 1px solid #660000 !important;
     }
@@ -243,7 +244,7 @@ ins span {
 }
 
 @media screen and (min-width:1000px) {
-    ins {
+    code {
         margin-left: 4em !important
     }
 }
@@ -286,7 +287,7 @@ ins span {
     margin-left: -0.5em !important
 }
 
-mark {
+del {
     color: #000F4D;
     font-size: 0.85em;
     padding-left: 10px;
@@ -295,4 +296,5 @@ mark {
     margin-bottom: 1em;
     margin-top: 0.5em;
     display: inline-block;
+    text-decoration: none;
 }
