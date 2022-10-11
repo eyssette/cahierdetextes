@@ -203,13 +203,14 @@ body:not(.night) h6 {
 
 code {
     font-family: inherit;
-    font-size: 0.6em;
+    font-size: 10px;
     text-decoration: none;
     font-weight: normal !important;
     text-align: justify;
     border-left: 1px solid #ccc;
     padding-left: 10px;
     line-height:1.3em;
+    color:#333;
 }
 
 .container-lg em a {
