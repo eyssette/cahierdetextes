@@ -115,7 +115,7 @@ span.s {
     font-style:normal!important;
 }
 
-.container-lg h3 span {
+h3 span {
     opacity: 0.8 !important;
     font-size: 0.73em !important;
     display: block !important;
@@ -123,36 +123,13 @@ span.s {
     margin-top: 3px !important
 }
 
-body:not(.night) .container-lg h3 span {
+h3 span {
     color: #A31E00 !important;
 }
 
-.container-lg ul,
-.container-lg p {
+ul,
+p {
     font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif
-}
-
-body:not(.night) #ui-toc-affix {
-    background-color: #DDD;
-    margin-left: 1em
-}
-
-body:not(.night) .toc .nav>li>a {
-    color: #767676 !important
-}
-
-body:not(.night) .ui-toc-dropdown .nav>li.active>a {
-    color: black !important;
-    border-left: black 1px solid !important
-}
-
-body:not(.night) .ui-toc-dropdown .nav>li>a:hover {
-    border-left: black 1px solid !important
-}
-
-body.night .ui-toc-label {
-    background-color: #444;
-    border: none
 }
 
 h5,
@@ -173,15 +150,10 @@ h6 {
     margin-left: 3em !important
 }
 
-.container-lg ol,
-.container-lg ul {
+ol,
+ul {
     margin-left: 3em !important;
     margin-top:0em;
-}
-
-.container-lg li p {
-    margin-left: 0 !important;
-    font-size: 1em !important
 }
 
 p {
@@ -189,24 +161,24 @@ p {
     font-size: 0.85em
 }
 
-body:not(.night) h5,
-body:not(.night) h6 {
+h5,
+h6 {
     color: black !important
 }
 
-.container-lg ol {
+ol {
     margin-bottom: 0.05em !important;
     margin-top: 0.05em !important;
     font-style: italic
 }
 
-.container-lg li {
+li {
     font-size: 0.85em;
     line-height: 1.25em;
     color:#333;
 }
 
-.container-lg ul li {
+ul li {
     margin-left: 1em !important;
 }
 
@@ -231,7 +203,7 @@ code {
     font-style:italic;
 }
 
-.container-lg em a {
+em a {
     text-align: justify;
     font-size: 0.8em;
     background-color: #eee;
@@ -280,25 +252,25 @@ code {
     }
 }
 
-.container-lg ol ol {
+ol ol {
     list-style-type: lower-alpha;
     margin-left: 0em !important;
     margin-top: 0.35em !important
 }
 
-.container-lg ol ul {
+ol ul {
     margin-left: 0.25em !important;
     margin-top: 0.25em !important;
     font-style: normal
 }
 
-.container-lg ol ol ul {
+ol ol ul {
     margin-left: -1.5em !important;
     margin-top: 0.25em !important;
     font-size: initial;
 }
 
-.container-lg ul ul {
+ul ul {
     margin-left: -0.5em !important
 }
 
