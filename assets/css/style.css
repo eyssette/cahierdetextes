@@ -205,22 +205,11 @@ code {
     font-family: inherit;
     font-size: 0.6em;
     text-decoration: none;
-    font-style: italic;
     font-weight: normal !important;
     text-align: justify;
     border-left: 1px solid #ccc;
     padding-left: 10px;
     line-height:1.3em;
-}
-
-code+code {
-    font-style:normal!important;
-}
-
-code+code+code {
-    font-size: 0.5em;
-    color: #666!important;
-    opacity: 0.9!important;
 }
 
 .container-lg em a {
