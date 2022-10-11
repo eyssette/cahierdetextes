@@ -207,7 +207,15 @@ body:not(.night) h6 {
 }
 
 .container-lg ul li {
-    margin-left: 1em !important
+    margin-left: 1em !important;
+}
+
+ul ol {
+    padding-left:0!important;
+}
+
+ul ol li {
+    margin-left:0!important;
 }
 
 code {
