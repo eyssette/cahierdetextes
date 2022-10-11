@@ -100,7 +100,7 @@ h6 {
 
 
 
-:not(code) span {
+span:not(.na), span:not(.pi), span:not(.s) {
     color: #666 !important;
     font-weight: normal !important;
     opacity: 0.8 !important
