@@ -1,0 +1,49 @@
+body:not(.night) {background-color:#272725;}
+    body:not(.night) #doc {background-color:white}
+    h1:nth-of-type(1) {font-size:3em; padding-top:0.25em; margin-bottom:1em; border-bottom:none!important; color:#004d32}
+    h1{color:#005738; text-align:center; margin-top:2em!important; border-bottom:1px solid #005738!important; margin-bottom:1em!important}
+    h2{color:#008D44; padding-top:1em; border-bottom:1px solid #008D44!important; margin-bottom:0.75em!important}
+    h3{color:#A31E00; opacity:0.9!important; padding-top:0.5em; padding-bottom:0.25em; border-bottom:1px dashed #A31E00!important}
+    h4{color:#691024; opacity:0.9!important; margin-left:1em!important; padding-top:0.2em; border-bottom:1px dotted #691024!important}
+    #doc h4 span {opacity:1!important;}
+    #doc{padding:2em 4em!important; border-radius:15px!important; margin-bottom:3em!important; max-width:1050px;}
+    #doc span {color:#666!important; font-weight:normal!important; opacity:0.8!important}
+    #doc h3 span {opacity:0.8!important; font-size:0.73em!important; display:block!important; margin-left:0.5em!important; margin-top:3px!important}
+    body:not(.night) #doc h3 span {color:#A31E00!important;}
+    #doc ul, #doc p {font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Helvetica, Arial, sans-serif}
+    body:not(.night) #ui-toc-affix{background-color:#DDD; margin-left:1em}
+    body:not(.night) .toc .nav>li>a {color:#767676!important}
+    body:not(.night) .ui-toc-dropdown .nav>li.active>a {color:black!important; border-left:black 1px solid!important}
+    body:not(.night) .ui-toc-dropdown .nav>li>a:hover {border-left:black 1px solid!important}
+    body.night .ui-toc-label {background-color:#444; border:none}
+    h5, h6, p {margin:0em!important; padding:0.25em!important; margin-left:1em!important}
+    h5 {padding-top:0.5em!important; margin-top:0.5em!important; margin-left:2em!important}
+    h6 {margin-left:3em!important}
+    #doc ol, #doc ul  {margin-left:3em!important}
+    #doc li p {margin-left:0!important; font-size:1em!important}
+    p {margin-left:5em!important; font-size:0.85em}
+    body:not(.night) h5, body:not(.night) h6 {color:black!important}
+    #doc ol {margin-bottom:0.05em!important; margin-top:0.05em!important; font-style:italic}
+    #doc li {font-size:0.85em; line-height:1em;}
+    #doc ul li {margin-left:1em!important}
+    ins {font-size:0.6em; text-decoration:none; font-style:normal!important; font-weight:normal!important; text-align:justify; border-left:1px solid #ccc; padding-left:10px}
+    ins span {font-size:0.8em;}
+    #doc em a {text-align:justify; font-size:0.8em; background-color:#eee; border-radius:10px; padding:6px 12px!important; display:inline-block; margin-bottom:1em;}
+    @media screen and (min-width: 600px){
+        ins {float:right; display:block; width:170px;}
+        ins:hover {color:#660000!important; border-left:1px solid #660000!important;}
+        #doc {font-size:1.4em}
+    }
+    @media screen and (min-width:1000px) {
+        ins {margin-left:4em!important}
+    }
+    @media screen and (max-width: 600px){
+        #doc {padding:10px!important}
+        #doc p, #doc ol, #doc ul {margin-left:3em!important}
+        #doc ul li {margin-left:-1em!important}
+    }
+    #doc ol ol {list-style-type:lower-alpha; margin-left:0em!important; margin-top:0.35em!important}
+    #doc ol ul {margin-left:0.25em!important; margin-top:0.25em!important; font-style:normal}
+    #doc ol ol ul{margin-left:-1.5em!important; margin-top:0.25em!important; font-size:initial;}
+    #doc ul ul {margin-left:-0.5em!important}
+    mark {color:#000F4D; font-size:0.85em; padding-left:10px; border-left:#002366 1px dotted; background:none; margin-bottom:1em; margin-top:0.5em; display:inline-block;}
