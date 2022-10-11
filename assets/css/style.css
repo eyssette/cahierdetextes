@@ -209,7 +209,8 @@ code {
     font-weight: normal !important;
     text-align: justify;
     border-left: 1px solid #ccc;
-    padding-left: 10px
+    padding-left: 10px;
+    line-height:1.3em;
 }
 
 code span {
