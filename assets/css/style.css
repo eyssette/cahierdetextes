@@ -9,11 +9,11 @@ body {
 
 .container-lg {
     background-color: white;
-    margin:auto;
+    margin: auto;
     padding: 2em 4em !important;
     border-radius: 15px !important;
     margin-bottom: 3em !important;
-    margin-top:1em;
+    margin-top: 1em;
     max-width: 890px;
 }
 
@@ -31,7 +31,7 @@ a {
 
 
 h1, h2 {
-    padding-bottom:0.3em
+    padding-bottom: 0.3em
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -50,7 +50,7 @@ h1 {
 }
 
 h1:nth-of-type(1) {
-    display:none;
+    display: none;
 }
 
 h1:nth-of-type(2) {
@@ -59,7 +59,7 @@ h1:nth-of-type(2) {
     margin-bottom: 1em;
     border-bottom: none !important;
     color: #004d32;
-    margin-top:0!important
+    margin-top: 0 !important
 }
 
 h2 {
@@ -75,7 +75,7 @@ h3 {
     padding-top: 0.5em;
     padding-bottom: 0.25em;
     border-bottom: 1px dashed #A31E00 !important;
-    font-size:1.2em;
+    font-size: 1.2em;
 }
 
 h4 {
@@ -87,11 +87,11 @@ h4 {
 }
 
 h5 {
-    font-size:0.85em;
+    font-size: 0.85em;
 }
 
 h6 {
-    font-size:0.825em;
+    font-size: 0.825em;
 }
 
 
@@ -104,12 +104,12 @@ span:not(.na), span:not(.pi), span:not(.s) {
 }
 
 span.na, span.pi, span.s {
-    color: #333!important;
-    opacity:1!important;
+    color: #333 !important;
+    opacity: 1 !important;
 }
 
 span.s {
-    font-style:normal!important;
+    font-style: normal !important;
 }
 
 ul,
@@ -138,7 +138,7 @@ h6 {
 ol,
 ul {
     margin-left: 3em !important;
-    margin-top:0em;
+    margin-top: 0em;
 }
 
 p {
@@ -160,7 +160,7 @@ ol {
 li {
     font-size: 0.85em;
     line-height: 1.25em;
-    color:#333;
+    color: #333;
 }
 
 ul li {
@@ -168,11 +168,11 @@ ul li {
 }
 
 ul ol {
-    padding-left:0!important;
+    padding-left: 0 !important;
 }
 
 ul ol li {
-    margin-left:0!important;
+    margin-left: 0 !important;
 }
 
 code {
@@ -183,9 +183,9 @@ code {
     text-align: justify;
     border-left: 1px solid #ccc;
     padding-left: 10px;
-    line-height:1.3em;
-    color:#333;
-    font-style:italic;
+    line-height: 1.3em;
+    color: #333;
+    font-style: italic;
 }
 
 em a {
@@ -228,7 +228,7 @@ em a {
         padding: 10px !important
     }
     ul li {
-        margin-left:-0.75em!important;
+        margin-left: -0.75em !important;
     }
 }
 
