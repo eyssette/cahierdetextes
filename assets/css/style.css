@@ -207,6 +207,8 @@ em a {
 
     code:hover, code span:hover {
         color: #660000 !important;
+    }
+    code:hover {
         border-left: 1px solid #660000 !important;
     }
 
