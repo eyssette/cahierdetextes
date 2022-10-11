@@ -111,6 +111,10 @@ span.na, span.pi, span.s {
     opacity:1!important;
 }
 
+span.s {
+    font-style:normal!important;
+}
+
 .container-lg h3 span {
     opacity: 0.8 !important;
     font-size: 0.73em !important;
