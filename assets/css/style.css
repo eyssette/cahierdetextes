@@ -84,6 +84,14 @@ h4 {
     border-bottom: 1px dotted #691024 !important
 }
 
+h5 {
+    font-size:0.85em;
+}
+
+h6 {
+    font-size:0.825em;
+}
+
 .container-lg h4 span {
     opacity: 1 !important;
 }
@@ -182,7 +190,8 @@ body:not(.night) h6 {
 
 .container-lg li {
     font-size: 0.85em;
-    line-height: 1em;
+    line-height: 1.25em;
+    color:#333;
 }
 
 .container-lg ul li {
