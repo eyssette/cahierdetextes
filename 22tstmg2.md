@@ -13,7 +13,7 @@
 1. Argumenter
 1. Récapitulatif
 
-###### C. Une quatrième démarche importante (mobiliser ses connaissances) `Vendredi 9 septembre : Partie I terminée`
+###### C. Une quatrième démarche importante (mobiliser ses connaissances) `Vendredi 9 septembre : partie I terminée`
 
 ##### II – Le fonctionnement du cours ?
 1. Le cadre général
@@ -35,7 +35,7 @@ Par groupe, faites au moins l'un de ces exercices :
 
 *[Lien vers le cours en ligne](https://eyssette.github.io/cours/philo22t/c/s1-ch1-q1.html#q1a--la-libert%C3%A9-consiste-t-elle-%C3%A0-satisfaire-tous-ses-d%C3%A9sirs-)*
 
-- Extrait du <i>Loup de Wall-Street</i> : les deux interprétations possibles de ce trader, Jordan Belfort `Lundi 12 septembre : Jusqu'au visionnage de l'extrait du Loup de Wall-Street`
+- Extrait du <i>Loup de Wall-Street</i> : les deux interprétations possibles de ce trader, Jordan Belfort `Lundi 12 septembre : jusqu'au visionnage de l'extrait du Loup de Wall-Street`
 
 
 ##### I – La liberté comme puissance d'agir sans limites (Calliclès)
@@ -43,20 +43,20 @@ Par groupe, faites au moins l'un de ces exercices :
 - La notion de licence et la critique de la modération
 - L'exemple de Dorian Gray
 - La critique des règles comme simples conventions sociales
-- L'histoire de l'anneau d'invisibilité de Gygès `Vendredi 16 septembre : Jusqu'à l'histoire de l'anneau de Gygès (juste racontée à l'oral)`
+- L'histoire de l'anneau d'invisibilité de Gygès `Vendredi 16 septembre : jusqu'à l'histoire de l'anneau de Gygès (juste racontée à l'oral)`
 - La figure du super-héros
 
 ##### II – La liberté comme maîtrise de soi (Socrate)
 - Vivre sans limites, ce serait être esclave de ses désirs
 - Une comparaison : ce serait vivre comme un tonneau percé. Analyse de l'image du tonneau percé.
-- Exemple : analyse du jeu _Fortnite_ `Lundi 19 septembre : Deux extraits visionnés, commentaire écrit pour le premier extrait ; début de commentaire à l'oral seulement pour le 2nd`
+- Exemple : analyse du jeu _Fortnite_ `Lundi 19 septembre : deux extraits visionnés, commentaire écrit pour le premier extrait ; début de commentaire à l'oral seulement pour le 2nd`
 - Correction de l'exercice de rédaction d'un paragraphe « Pourquoi peut-on dire que réfléchir, c'est dire non ? »
     - Point méthode sur la construction d'un raisonnement en philosophie
-- Analyse de l'extrait de la série _Dopamine_ sur Snapchat `Vendredi 23 septembre : Analyse terminée`
+- Analyse de l'extrait de la série _Dopamine_ sur Snapchat `Vendredi 23 septembre : analyse terminée`
 - Point méthode sur l'utilisation d'exemples. 
 
 ##### Mise en pratique
-- Exercice de rédaction d'un paragraphe avec la méthode ARES `Lundi 26 septembre : Exercice terminé`
+- Exercice de rédaction d'un paragraphe avec la méthode ARES `Lundi 26 septembre : exercice terminé`
 
 #### Q1b – Suis-je vraiment maître de moi-même ?
 
@@ -71,7 +71,7 @@ Par groupe, faites au moins l'un de ces exercices :
     - Exemples pour comprendre la notion d'instinct : le roulement des œufs chez l'oie cendrée et l'agressivité de l'épinoche
     - Tableau de distinction : agir par instinct / agir après réflexion
     - Point méthode sur l'analyse des notions à partir d'exemples et de distinctions ou oppositions
-    - Les limites de la notion d'instinct : le cas de l'araignée Portia  `Vendredi 30 septembre : Extrait vidéo visionné et analysé`
+    - Les limites de la notion d'instinct : le cas de l'araignée Portia  `Vendredi 30 septembre : extrait vidéo visionné et analysé`
 - La raison permet d'envisager plusieurs possibilités d'action et permet ainsi la liberté
 - Nous agissons parfois par impulsion : notre acte est alors spontané, mais il n'est pas pour autant libre, car il n'exprime pas un véritable choix (exemple du coup de tête de Zidane)
     - Notre âme est comme un cocher qui cherche à diriger deux chevaux (métaphore de Platon)
@@ -89,4 +89,4 @@ Par groupe, faites au moins l'un de ces exercices :
 - Cela montre qu'il y a une influence des facteurs sociaux sur nous. Mais ce n'est qu'une influence, et non pas un destin tout tracé 
 - Karl Marx : « Ce n’est pas la conscience des hommes qui détermine leur existence, c’est au contraire leur existence sociale qui détermine leur conscience. »
 
-##### Mise en pratique `Vendredi 7 octobre : Exercice fait en classe`
+##### Mise en pratique `Vendredi 7 octobre : exercice fait en classe`
