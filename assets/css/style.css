@@ -101,9 +101,14 @@ h6 {
 
 
 span:not(.na), span:not(.pi), span:not(.s) {
-    color: #666 !important;
+    color: #666;
     font-weight: normal !important;
     opacity: 0.8 !important
+}
+
+span.na, span.pi, span.s {
+    color: #333!important;
+    opacity:1!important;
 }
 
 .container-lg h3 span {
