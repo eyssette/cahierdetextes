@@ -13,7 +13,7 @@ body {
     padding: 2em 4em !important;
     border-radius: 15px !important;
     margin-bottom: 3em !important;
-    max-width: 900px;
+    max-width: 890px;
 }
 
 a:focus, a:hover {
@@ -73,7 +73,8 @@ h3 {
     opacity: 0.9 !important;
     padding-top: 0.5em;
     padding-bottom: 0.25em;
-    border-bottom: 1px dashed #A31E00 !important
+    border-bottom: 1px dashed #A31E00 !important;
+    font-size:1.2em;
 }
 
 h4 {
@@ -164,7 +165,8 @@ h6 {
 
 .container-lg ol,
 .container-lg ul {
-    margin-left: 3em !important
+    margin-left: 3em !important;
+    margin-top:0em;
 }
 
 .container-lg li p {
