@@ -10,6 +10,10 @@ body {
 .container-lg {
     background-color: white;
     margin:auto;
+    padding: 2em 4em !important;
+    border-radius: 15px !important;
+    margin-bottom: 3em !important;
+    max-width: 950px;
 }
 
 h1:nth-of-type(1) {
@@ -58,12 +62,7 @@ h4 {
     opacity: 1 !important;
 }
 
-.container-lg {
-    padding: 2em 4em !important;
-    border-radius: 15px !important;
-    margin-bottom: 3em !important;
-    max-width: 1050px;
-}
+
 
 .container-lg span {
     color: #666 !important;
@@ -201,7 +200,7 @@ ins span {
     }
 
     .container-lg {
-        font-size: 1.4em
+        font-size: 1.25em
     }
 }
 
