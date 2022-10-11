@@ -240,16 +240,6 @@ em a {
     .container-lg {
         padding: 10px !important
     }
-
-    .container-lg p,
-    .container-lg ol,
-    .container-lg ul {
-        margin-left: 3em !important
-    }
-
-    .container-lg ul li {
-        margin-left: -1em !important
-    }
 }
 
 ol ol {
