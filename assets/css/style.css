@@ -100,7 +100,7 @@ h6 {
 
 
 
-.container-lg span {
+:not(code) span {
     color: #666 !important;
     font-weight: normal !important;
     opacity: 0.8 !important
