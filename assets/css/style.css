@@ -240,7 +240,7 @@ code {
         width: 170px;
     }
 
-    code:hover {
+    code:hover, span:hover {
         color: #660000 !important;
         border-left: 1px solid #660000 !important;
     }
