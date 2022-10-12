@@ -93,6 +93,8 @@ Par groupe, faites au moins l'un de ces exercices :
 
 #### Q1c – Suffit-il d'être maître de soi pour être libre ?
 
+<!-- *[Lien vers le cours en ligne]()* -->
+
 - Un exemple : Nelson Mandela. Extrait du film _Invictus_
     - En quel sens Mandela n'est-il pas libre ? En quel sens peut-on dire qu'il est libre ?
 - Au sens commun, la liberté c'est pouvoir faire ce que je veux
