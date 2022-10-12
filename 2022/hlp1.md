@@ -89,7 +89,7 @@ Travail sur [trois textes sur les humanités](https://nuage03.apps.education.fr/
 		- À travers la langue, la structure sociale est présente. Un échange linguistique est aussi un rapport de forces symbolique et on peut l'analyser comme un échange économique : les discours sont évalués.
 - Carte mentale sur la notion de variations linguistiques : [lien](https://eyssette.github.io/mindmap/variations-linguistiques-FOLD.html)
 - Extrait d'un documentaire _Baisemain et Mocassins_ : [lien](https://www.dailymotion.com/video/x2kbvlx) `Mercredi 5 octobre : travail sur l'extrait terminé`
-- Deux fondateurs de la sociolinguistique : Labov et Bernstein. Présentation des expériences de Labov et des discussions autour du travail de Bernstein (2 textes à lire en approfondissement).
+- Deux fondateurs de la sociolinguistique : Labov et Bernstein. Présentation des expériences de Labov et des discussions autour du travail de Bernstein (2 textes à lire en approfondissement : sur [Labov](https://nuage03.apps.education.fr/index.php/s/FPEmkTPc8seJM2R) et sur [Berstein](https://nuage03.apps.education.fr/index.php/s/7nWfKJtbJcaMoPD)).
 
 #### Question 3 : La parole exprime-t-elle mon identité ?
 - Discussion en groupes autour de 6 questions : 
