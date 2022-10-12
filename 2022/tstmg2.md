@@ -90,3 +90,15 @@ Par groupe, faites au moins l'un de ces exercices :
 - Karl Marx : « Ce n’est pas la conscience des hommes qui détermine leur existence, c’est au contraire leur existence sociale qui détermine leur conscience. »
 
 ##### Mise en pratique `Vendredi 7 octobre : exercice fait en classe`
+
+#### Q1c – Suffit-il d'être maître de soi pour être libre ?
+
+- Un exemple : Nelson Mandela. Extrait du film _Invictus_
+    - En quel sens Mandela n'est-il pas libre ? En quel sens peut-on dire qu'il est libre ?
+- Au sens commun, la liberté c'est pouvoir faire ce que je veux
+- Distinction de deux sens de la liberté : la liberté d'action et la volonté. Schéma & exemples typiques.
+
+##### I – La maîtrise de soi suffit pour être libre car la liberté est intérieure (le stoïcisme d'Épictète)
+
+- Une distinction fondamentale dans le stoïcisme : ce qui dépend de nous / ce qui ne dépend pas de nous.
+    - Exercice : tableau de distinction `Lundi 10 octobre : exercice terminé et corrigé`
