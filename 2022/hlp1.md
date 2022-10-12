@@ -99,3 +99,8 @@ Travail sur [trois textes sur les humanités](https://nuage03.apps.education.fr/
 	4. a/ Avez-vous créé un profil sur un réseau social ? Votre profil et vos publications sont-ils l'expression fidèle de qui vous êtes ? <br/>b/ Suivez-vous une personne publique sur un réseau social ? Quelle image cette personne donne-t-elle d'elle-même ?
 	5. Avez-vous déjà rédigé un CV, une lettre de motivation ? Quand on se présente pour un emploi, la manière dont on parle de soi est-elle un mensonge ?
 	6. a/ Peut-on deviner l'identité politique d'une personne ? Dans quelle mesure la manière de parler d'une personne révèle-t-elle ses positions politiques ? <br/>b/ Dans un discours politique, la personne qui parle doit-elle donner une certaine image d'elle-même ?
+- Retour collectif sur ces questions
+- La notion d'ethos
+	- Lecture d'un texte de Ruth Amossy sur la [notion d'ethos chez Aristote et Goffman](https://nuage03.apps.education.fr/index.php/s/ybKAGnipM9qG5op)
+	- Qu'est-ce que l'ethos selon Aristote ?
+	- Qu'est-ce que l'ethos selon Goffman
