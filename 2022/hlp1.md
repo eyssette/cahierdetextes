@@ -93,11 +93,9 @@ Travail sur [trois textes sur les humanités](https://nuage03.apps.education.fr/
 
 #### Question 3 : La parole exprime-t-elle mon identité ?
 - Discussion en groupes autour de 6 questions : 
-	- 1) Avez-vous un tatouage ou connaissez-vous quelqu'un qui a un tatouage ? Quelle est la signification de ce tatouage ? En quel sens un tatouage exprime-t-il l'identité de la personne ?
-	- 2) Votre prénom a-t-il une signification particulière ? Avez-vous un ou des surnoms ? De manière générale, dans quelle mesure un prénom ou un surnom manifestent-ils l'identité d'une personne ?
-	- 3) Dans quelles situations une personne peut-elle être amenée à utiliser un pseudonyme ? Pour quelles raisons ? Le pseudonyme dit-il quelque chose de nous ?
-	- 4) a/ Avez-vous créé un profil sur un réseau social ? Votre profil et vos publications sont-ils l'expression fidèle de qui vous êtes ?
-	- b/ Suivez-vous une personne publique sur un réseau social ? Quelle image cette personne donne-t-elle d'elle-même ?
-	- 5) Avez-vous déjà rédigé un CV, une lettre de motivation ? Quand on se présente pour un emploi, la manière dont on parle de soi est-elle un mensonge ?
-	- 6) a/ Peut-on deviner l'identité politique d'une personne ? Dans quelle mesure la manière de parler d'une personne révèle-t-elle ses positions politiques ?
-	- b/ Dans un discours politique, la personne qui parle doit-elle donner une certaine image d'elle-même ?
+	1. Avez-vous un tatouage ou connaissez-vous quelqu'un qui a un tatouage ? Quelle est la signification de ce tatouage ? En quel sens un tatouage exprime-t-il l'identité de la personne ?
+	2/ Votre prénom a-t-il une signification particulière ? Avez-vous un ou des surnoms ? De manière générale, dans quelle mesure un prénom ou un surnom manifestent-ils l'identité d'une personne ?
+	3 Dans quelles situations une personne peut-elle être amenée à utiliser un pseudonyme ? Pour quelles raisons ? Le pseudonyme dit-il quelque chose de nous ?
+	4. a/ Avez-vous créé un profil sur un réseau social ? Votre profil et vos publications sont-ils l'expression fidèle de qui vous êtes ? <br/>b/ Suivez-vous une personne publique sur un réseau social ? Quelle image cette personne donne-t-elle d'elle-même ?
+	5. Avez-vous déjà rédigé un CV, une lettre de motivation ? Quand on se présente pour un emploi, la manière dont on parle de soi est-elle un mensonge ?
+	6. a/ Peut-on deviner l'identité politique d'une personne ? Dans quelle mesure la manière de parler d'une personne révèle-t-elle ses positions politiques ? <br/>b/ Dans un discours politique, la personne qui parle doit-elle donner une certaine image d'elle-même ?
