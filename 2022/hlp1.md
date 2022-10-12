@@ -14,19 +14,19 @@
     1. Constitution progressive des sciences humaines
     2. Institutionnalisation des humanités dans des programmes éducatifs
     3. Critiques des humanités
-    4. Renouveau récent des humanités `Vendredi 9 septembre (Gr.1) : titre du I.A.4.d simplement noté`
+    4. Renouveau récent des humanités `Vendredi 9 septembre (gr.1) : titre du I.A.4.d simplement noté`
 
 Travail sur [trois textes sur les humanités](https://nuage03.apps.education.fr/index.php/s/iTtSx5Yg9T92tfd)
 
 ###### B. Approche philosophique 
-1. Comprendre les humanités par leur rapport au temps `Mercredi 7 septembre (Gr.2) : titre du I.B.1. simplement noté`
+1. Comprendre les humanités par leur rapport au temps `Mercredi 7 septembre (gr.2) : titre du I.B.1. simplement noté`
     1. Un rapport au passé
         - Travail sur [trois textes à propos de la notion de tradition](https://nuage03.apps.education.fr/index.php/s/gbB9T3y4tsgeMG2)
     2. Un rapport au présent
     3. Un rapport au futur
 3. Une conception de l'être humain
     - L'être humain peut s'améliorer (perfectibilité)
-    - L'être humain doit s'améliorer (perfectionnisme moral) `Vendredi 16 septembre (Gr.1) : partie I terminée`
+    - L'être humain doit s'améliorer (perfectionnisme moral) `Vendredi 16 septembre (gr.1) : partie I terminée`
 
 ##### II – Le fonctionnement du cours
 
@@ -42,7 +42,7 @@ Travail sur [trois textes sur les humanités](https://nuage03.apps.education.fr/
 
 
 # Semestre 1 : Les pouvoirs de la parole
-- Distinctions : Langage / Langue / Parole `Mercredi 14 septembre (Gr.2) : analyse de la distinction terminée`
+- Distinctions : Langage / Langue / Parole `Mercredi 14 septembre (gr.2) : analyse de la distinction terminée`
 - Exemple : on ne dit pas "langage des signes", mais "langue des signes". Pourquoi ?
 - Les pouvoirs de la parole :
     - Le pouvoir de parler :
@@ -62,24 +62,30 @@ Travail sur [trois textes sur les humanités](https://nuage03.apps.education.fr/
 - Trois sens de la notion d'identité : l'identité personnelle, l'identité sociale, l'identité humaine
 
 #### Question 1 : Pourquoi parler est-il si important pour les êtres humains ?
+
+*[Lien vers le cours en ligne](https://eyssette.github.io/cours/1hlp22/c/s1-ch1.html#question-1--pourquoi-parler-est-il-si-important-pour-les-%C3%AAtres-humains-)*
+
 - De manière plus forte : « Pourquoi avons-nous besoin de parler ? ». Travail par groupes de 4 pour essayer de répondre à cette question
 - Les réponses sont notées au tableau. Exercice de regroupement de ces réponses en 2 ou 3 catégories
 - Trois grandes réponses sont distinguées :
     1. La parole permet l'expression de la pensée et plus généralement de notre intériorité
     2. La parole permet la communication avec les autres et elle est au fondement des sociétés et des cultures
     3. La parole est un besoin existentiel : à travers la parole nous affirmons notre existence en tant que personne et notre désir de reconnaissance par les autres.
-- Exercice de [classement de textes](https://nuage03.apps.education.fr/index.php/s/fKLWCM5ACJmS3kf) (les textes ont été découpés pour être mélangés) `Mercredi 21 septembre (Gr.2) : exercice fait et corrigé` `Mercredi 21 septembre (Gr.1) : exercice fait, mais pas encore corrigé`
+- Exercice de [classement de textes](https://nuage03.apps.education.fr/index.php/s/fKLWCM5ACJmS3kf) (les textes ont été découpés pour être mélangés) `Mercredi 21 septembre (Gr.2) : exercice fait et corrigé` `Mercredi 21 septembre (gr.1) : exercice fait, mais pas encore corrigé`
 - Exemples
 - Analyse des textes
-- Application à un texte d'Isocrate
+- Application à un [texte d'Isocrate](https://nuage03.apps.education.fr/index.php/s/YHH696PWxscy3bH)
 
 #### Question 2 : Comment la parole nous situe-t-elle socialement ?
+
+*[Lien vers le cours en ligne](https://eyssette.github.io/cours/1hlp22/c/s1-ch1.html#question-2--comment-la-parole-nous-situe-t-elle-socialement-)*
+
 - Travail par groupes autour de 2 questions
     - Trouver un maximum d'expressions pour dire "aller aux toilettes". Qui dit ça ? Dans quel contexte ?
-    - Quels sont les mots ou expressions que vous utilisez (avec vos amis, votre famille, ...) et que d'autres personnes ne comprendraient pas (ou pas immédiatement) ?`Mercredi 28 septembre (Gr.2) : travail par groupes tout juste commencé`
+    - Quels sont les mots ou expressions que vous utilisez (avec vos amis, votre famille, ...) et que d'autres personnes ne comprendraient pas (ou pas immédiatement) ?`Mercredi 28 septembre (gr.2) : travail par groupes tout juste commencé`
 - Définition de la sociolinguistique
 	- La sociolinguistique est l'étude de la langue du point de vue sociologique. Elle s'intéresse aux variations dans l'usage d'une langue en fonction du contexte social.
-- Travail sur un texte à propos de la sociolinguistique.
+- Travail sur un [texte à propos de la sociolinguistique](https://nuage03.apps.education.fr/index.php/s/3L4THTsY45SxFyi).
 	- 1/ Pourquoi la langue n'est-elle pas un simple instrument de communication ?
 		- a) La langue n'est pas un outil qu'on utilise à un moment. Elle fait partie du quotidien. Nous baignons dans du langage
 		- b) La langue n'est pas un objet extérieur, elle fait partie de notre identité, de notre intériorité (parfois nous jouons un rôle social et nous adoptons une manière de parler qui n'est pas vraiment la nôtre, nous sommes alors un peu extérieur à la manière dont nous parlons)
@@ -87,11 +93,14 @@ Travail sur [trois textes sur les humanités](https://nuage03.apps.education.fr/
 	- 2/ Quelle est la position de Bourdieu sur le langage ?
 		- Bourdieu affirme que la langue ne peut pas être comprise de manière abstraite. C'est avant tout une pratique sociale
 		- À travers la langue, la structure sociale est présente. Un échange linguistique est aussi un rapport de forces symbolique et on peut l'analyser comme un échange économique : les discours sont évalués.
-- Carte mentale sur la notion de variations linguistiques : [lien](https://eyssette.github.io/mindmap/variations-linguistiques-FOLD.html)
-- Extrait d'un documentaire _Baisemain et Mocassins_ : [lien](https://www.dailymotion.com/video/x2kbvlx) `Mercredi 5 octobre : travail sur l'extrait terminé`
+- Carte mentale sur la notion de variations linguistiques : [lien](https://eyssette.github.io/mindmap/variations-linguistiques.html)
+- Extrait d'un documentaire _Baisemain et Mocassins_ : [lien](https://www.dailymotion.com/video/x2kbvlx) `Mercredi 5 octobre (gr.1 & gr.2.) : travail sur l'extrait terminé`
 - Deux fondateurs de la sociolinguistique : Labov et Bernstein. Présentation des expériences de Labov et des discussions autour du travail de Bernstein (2 textes à lire en approfondissement : sur [Labov](https://nuage03.apps.education.fr/index.php/s/FPEmkTPc8seJM2R) et sur [Berstein](https://nuage03.apps.education.fr/index.php/s/7nWfKJtbJcaMoPD)).
 
 #### Question 3 : La parole exprime-t-elle mon identité ?
+
+<!-- *[Lien vers le cours en ligne]()* -->
+
 - Discussion en groupes autour de 6 questions : 
 	1. Avez-vous un tatouage ou connaissez-vous quelqu'un qui a un tatouage ? Quelle est la signification de ce tatouage ? En quel sens un tatouage exprime-t-il l'identité de la personne ?
 	2. Votre prénom a-t-il une signification particulière ? Avez-vous un ou des surnoms ? De manière générale, dans quelle mesure un prénom ou un surnom manifestent-ils l'identité d'une personne ?
@@ -103,4 +112,4 @@ Travail sur [trois textes sur les humanités](https://nuage03.apps.education.fr/
 - La notion d'ethos
 	- Lecture d'un texte de Ruth Amossy sur la [notion d'ethos chez Aristote et Goffman](https://nuage03.apps.education.fr/index.php/s/ybKAGnipM9qG5op)
 	- Qu'est-ce que l'ethos selon Aristote ?
-	- Qu'est-ce que l'ethos selon Goffman
+	- Qu'est-ce que l'ethos selon Goffman ? `Mercredi 12 octobre (gr. 1) : texte distribué, mais lecture et analyse pas encore terminée`
