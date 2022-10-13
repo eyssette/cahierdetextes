@@ -36,20 +36,21 @@ window.addEventListener("load", function () {
 			for (var i = 0; i < headers.length - 1; i++) {
 				const sectionTop = headers[i].offsetTop - 10;
 				var sectionBottom;
-				if (i < headers.length-2) {
-					sectionBottom = headers[i+1].offsetTop - 10;
+				if (i < headers.length - 2) {
+					sectionBottom = headers[i + 1].offsetTop - 10;
 				} else {
 					sectionBottom = document.body.scrollHeight;
 				}
 				sectionId = headers[i].id;
-				if (
-					scrollY > sectionTop &&
-					scrollY <= sectionBottom
-					&& sectionId != ''
-				) {
-					document.querySelector("a[href*=" + sectionId + "]").classList.add("active");
-				} else {
-					document.querySelector("a[href*=" + sectionId + "]").classList.remove("active");
+				if (sectionId != '') {
+					if (
+						scrollY > sectionTop &&
+						scrollY <= sectionBottom
+					) {
+						document.querySelector("a[href*=" + sectionId + "]").classList.add("active");
+					} else {
+						document.querySelector("a[href*=" + sectionId + "]").classList.remove("active");
+					}
 				}
 			}
 
