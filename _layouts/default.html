@@ -7,7 +7,7 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-	<script type="text/javascript" src="/assets/js/sidebar-toc.js"></script>
+	<script type="text/javascript" src="{{ "/assets/js/sidebar-toc.js" | append: site.github.build_revision | relative_url }}"></script>
     {% include head-custom.html %}
   </head>
   <body>
