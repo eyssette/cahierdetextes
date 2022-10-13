@@ -293,6 +293,10 @@ nav.pagetoc a.h4 {
     margin-left:15px;
 }
 
+nav.pagetoc a.active {
+    color:#AA7!important;
+}
+
 @media screen and (max-width:1700px) {
     nav.pagetoc {
         display:none;
