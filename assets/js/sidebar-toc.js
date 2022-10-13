@@ -47,10 +47,11 @@ function navHighlighter() {
     if (
       scrollY > sectionTop &&
       scrollY <= sectionTop + sectionHeight
-	  console.log(sectionId);
     ){
+		console.log('yes'+sectionId);
       document.querySelector("nav a[href*=" + sectionId + "]").classList.add("active");
     } else {
+		console.log('no'+ sectionId);
       document.querySelector("nav a[href*=" + sectionId + "]").classList.remove("active");
     }
   });
