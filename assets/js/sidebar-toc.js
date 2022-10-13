@@ -47,6 +47,7 @@ function navHighlighter() {
     if (
       scrollY > sectionTop &&
       scrollY <= sectionTop + sectionHeight
+	  console.log(sectionId);
     ){
       document.querySelector("nav a[href*=" + sectionId + "]").classList.add("active");
     } else {
