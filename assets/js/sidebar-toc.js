@@ -1,11 +1,6 @@
 // Source : https://github.com/evan361425/evan361425.github.io/blob/acba613d2071c34075c6f1a3bff4d781dea49b71/pagetoc.js
 // Referrer: https://github.com/JorelAli/mdBook-pagetoc/blob/master/sidebar.js
 // Populate sidebar on load
-function pairwise(arr, func) {
-	for (var i = 0; i < arr.length - 1; i++) {
-		func(arr[i], arr[i + 1])
-	}
-}
 
 window.addEventListener("load", function () {
 	var pagetoc = document.getElementsByClassName("pagetoc")[0];
@@ -40,10 +35,14 @@ window.addEventListener("load", function () {
 			let scrollY = window.pageYOffset;
 
 
-			pairwise(headers, function (current, next) {
-				const sectionTop = current.offsetTop - 10;
-				const sectionBottom = next.offsetTop - 10;
-				sectionId = current.id;
+			for (var i = 0; i < headers.length - 1; i++) {
+				const sectionTop = headers[i].offsetTop - 10;
+				if (i < headers.length-2) {
+					const sectionBottom = headers[i+1].offsetTop - 10;
+				} else {
+					const sectionBottom = document.body.scrollHeightdocument.body.scrollHeight
+				}
+				sectionId = headers[i].id;
 				console.log(sectionTop + ' – '+ sectionId);
 				if (
 					scrollY > sectionTop &&
@@ -53,7 +52,7 @@ window.addEventListener("load", function () {
 				} else {
 					document.querySelector("a[href*=" + sectionId + "]").classList.remove("active");
 				}
-			})
+			}
 
 
 		});
