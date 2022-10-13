@@ -44,6 +44,7 @@ window.addEventListener("load", function () {
 				const sectionTop = current.offsetTop - 10;
 				const sectionBottom = next.offsetTop - 10;
 				sectionId = current.getAttribute("id");
+				console.log(sectionTop + ' – '+ sectionId);
 				if (
 					scrollY > sectionTop &&
 					scrollY <= sectionBottom
