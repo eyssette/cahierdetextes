@@ -33,6 +33,7 @@ window.addEventListener("load", function () {
 
 			// Get current scroll position
 			let scrollY = window.pageYOffset;
+			var hit = false;
 			for (var i = 0; i < headers.length - 1; i++) {
 				const sectionTop = headers[i].offsetTop - 10;
 				var sectionBottom;
@@ -45,14 +46,17 @@ window.addEventListener("load", function () {
 				if (sectionId != '') {
 					if (
 						scrollY > sectionTop &&
-						scrollY <= sectionBottom
+						scrollY <= sectionBottom && 
+						hit == false
 					) {
 						document.querySelector("a[href*=" + sectionId + "]").classList.add("active");
+						hit = true;
 					} else {
 						document.querySelector("a[href*=" + sectionId + "]").classList.remove("active");
 					}
 				}
 			}
+			hit = false
 
 
 		});
