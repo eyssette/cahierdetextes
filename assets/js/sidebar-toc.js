@@ -17,7 +17,7 @@ window.addEventListener("load", function () {
 
 		pagetocLink.appendChild(document.createTextNode(header.text));
 		pagetocLink.classList.add(tagName);
-		pagetocLink.href = '#'+header.tagName;
+		pagetocLink.href = '#'+header.id;
 		pagetocLink.setAttribute("data-referrer", header.id);
 
 		pagetoc.appendChild(pagetocLink);
