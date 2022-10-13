@@ -5,33 +5,23 @@
 window.addEventListener("load", function () {
 	var pagetoc = document.getElementsByClassName("pagetoc")[0];
 	var headers = document.querySelectorAll("h1, h2, h3, h4");
-
 	if (headers.length < 2) {
 		return pagetoc.remove();
 	}
-
 	Array.prototype.forEach.call(headers, function (header) {
 		var pagetocLink = document.createElement("a");
 		var tagName = header.tagName.toLowerCase();
-		// no need h1, h5~h6
 		if (header.id == '') return;
-
 		pagetocLink.appendChild(document.createTextNode(header.textContent));
 		pagetocLink.classList.add(tagName);
 		pagetocLink.href = '#' + header.id;
 		pagetocLink.setAttribute("data-referrer", header.id);
 		pagetoc.appendChild(pagetocLink);
 	});
-
-
 	// https://codepen.io/malsu/pen/VwKzoPG
-	// Add an event listener listening for scroll
 	window.addEventListener(
 		"scroll",
 		function () {
-
-
-			// Get current scroll position
 			let scrollY = window.pageYOffset;
 			var hit = false;
 			for (var i = 0; i < headers.length - 1; i++) {
@@ -57,8 +47,6 @@ window.addEventListener("load", function () {
 				}
 			}
 			hit = false
-
-
 		});
 
 });

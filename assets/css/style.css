@@ -297,8 +297,17 @@ nav.pagetoc a.active {
     color:#AA7!important;
 }
 
-@media screen and (max-width:1700px) {
+@media screen and (max-width:1370px) {
     nav.pagetoc {
         display:none;
+    }
+}
+
+@media screen and (min-width:1370px) and (max-width:1700px) {
+    nav.pagetoc {
+        width:250px;
+    }
+    .container-lg {
+        max-width: 650px;
     }
 }
