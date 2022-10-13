@@ -4,7 +4,7 @@
 
 window.addEventListener("load", function () {
 	var pagetoc = document.getElementsByClassName("pagetoc")[0];
-	var headers = document.querySelectorAll("h1, h2, h3, h4, h5, h6");
+	var headers = document.querySelectorAll("h1, h2, h3, h4");
 
 	if (headers.length < 2) {
 		return pagetoc.remove();
@@ -14,7 +14,7 @@ window.addEventListener("load", function () {
 		var pagetocLink = document.createElement("a");
 		var tagName = header.tagName.toLowerCase();
 		// no need h1, h5~h6
-		if (!["h1", "h2", "h3", "h4"].includes(tagName) || header.id == '') return;
+		//if (!["h1", "h2", "h3", "h4"].includes(tagName) || header.id == '') return;
 
 		pagetocLink.appendChild(document.createTextNode(header.textContent));
 		pagetocLink.classList.add(tagName);
