@@ -24,13 +24,13 @@ window.addEventListener("load", function () {
 });
 
 // https://codepen.io/malsu/pen/VwKzoPG
-// Get all sections
-
 // Add an event listener listening for scroll
 window.addEventListener("scroll", navHighlighter);
 
+// Get all sections that have an ID defined
+const sections = document.querySelectorAll("section[id]");
+
 function navHighlighter() {
-	var sections = document.querySelectorAll("h1, h2, h3, h4, h5, h6");
   // Get current scroll position
   let scrollY = window.pageYOffset;
   
