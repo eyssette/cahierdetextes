@@ -1,10 +1,10 @@
 // Source : https://github.com/evan361425/evan361425.github.io/blob/acba613d2071c34075c6f1a3bff4d781dea49b71/pagetoc.js
 // Referrer: https://github.com/JorelAli/mdBook-pagetoc/blob/master/sidebar.js
 // Populate sidebar on load
-function pairwise(arr, func){
-    for(var i=0; i < arr.length - 1; i++){
-        func(arr[i], arr[i + 1])
-    }
+function pairwise(arr, func) {
+	for (var i = 0; i < arr.length - 1; i++) {
+		func(arr[i], arr[i + 1])
+	}
 }
 
 window.addEventListener("load", function () {
@@ -40,31 +40,21 @@ window.addEventListener("load", function () {
 			let scrollY = window.pageYOffset;
 
 
-			pairwise(headers, function(current, next){
-				console.log(current, next)
-			})
-			
-
-			// Now we loop through headers to get height, top and ID values for each
-			// headers.forEach(current => {
-			//	const sectionTop = current.offsetTop-10;
-			//	sectionId = current.getAttribute("id");
-
-				/*
-				- If our current scroll position enters the space where current section on screen is, add .active class to corresponding navigation link, else remove it
-				- To know which link needs an active class, we use sectionId variable we are getting while looping through headers as an selector
-				*/
-			/* 	if (
+			pairwise(headers, function (current, next) {
+				const sectionTop = current.offsetTop - 10;
+				const sectionBottom = next.offsetTop - 10;
+				sectionId = current.getAttribute("id");
+				if (
 					scrollY > sectionTop &&
-					scrollY <= sectionTop + sectionHeight
+					scrollY <= sectionBottom
 				) {
 					document.querySelector("nav a[href*=" + sectionId + "]").classList.add("active");
 				} else {
 					document.querySelector("nav a[href*=" + sectionId + "]").classList.remove("active");
 				}
-			}); */
+			})
 
-			
+
 		});
 
 });
