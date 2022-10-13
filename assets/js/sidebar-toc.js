@@ -16,7 +16,7 @@ window.addEventListener("load", function () {
 		pagetocLink.classList.add(tagName);
 		pagetocLink.href = header.href;
 		pagetocLink.setAttribute("data-referrer", header.parentElement.id);
-
+		console.log(pagetocLink);
 		pagetoc.appendChild(pagetocLink);
 	});
 
