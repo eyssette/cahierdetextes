@@ -33,9 +33,9 @@ window.addEventListener("load", function () {
 
 			// Get current scroll position
 			let scrollY = window.pageYOffset;
-
+			console.log(headers);
 			for (var i = 0; i < headers.length - 1; i++) {
-				console.log(headers[i]);
+				
 				const sectionTop = headers[i].offsetTop - 10;
 				var sectionBottom;
 				if (i < headers.length-2) {
