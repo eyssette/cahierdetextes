@@ -13,13 +13,12 @@ window.addEventListener("load", function () {
 		var pagetocLink = document.createElement("a");
 		var tagName = header.tagName.toLowerCase();
 		// no need h1, h5~h6
-		if (!["h1", "h2", "h3", "h4"].includes(tagName) || header.id === undefined) return;
+		if (!["h1", "h2", "h3", "h4"].includes(tagName) || header.id == '') return;
 
-		pagetocLink.appendChild(document.createTextNode(header.text));
+		pagetocLink.appendChild(document.createTextNode(header.textContent));
 		pagetocLink.classList.add(tagName);
 		pagetocLink.href = '#'+header.id;
 		pagetocLink.setAttribute("data-referrer", header.id);
-
 		pagetoc.appendChild(pagetocLink);
 	});
 
