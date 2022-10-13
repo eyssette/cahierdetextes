@@ -13,7 +13,7 @@ window.addEventListener("load", function () {
 		var pagetocLink = document.createElement("a");
 		var tagName = header.tagName.toLowerCase();
 		// no need h1, h5~h6
-		if (!["h2"].includes(tagName)) return;
+		// if (!["h2"].includes(tagName)) return;
 
 		pagetocLink.appendChild(document.createTextNode(header.text));
 		pagetocLink.classList.add(tagName);
