@@ -269,7 +269,7 @@ del {
 nav.pagetoc {
     position: fixed;
     width: 300px;
-    background: white;
+    background: transparent;
     left: 80%;
     font-size: 12px;
     padding: 10px;
@@ -278,7 +278,7 @@ nav.pagetoc {
 nav.pagetoc a {
     display: block;
     padding-top: 1px;
-    color: #767676;
+    color: grey;
 }
 
 nav.pagetoc a.h2 {
