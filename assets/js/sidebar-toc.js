@@ -40,7 +40,7 @@ window.addEventListener("load", function () {
 			let scrollY = window.pageYOffset;
 
 
-			pairwise(Array.from(headers), function(current, next){
+			pairwise(headers, function(current, next){
 				console.log(current, next)
 			})
 			
