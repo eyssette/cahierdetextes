@@ -1,4 +1,4 @@
-// Source : https://github.com/evan361425/evan361425.github.io
+// Source : https://github.com/evan361425/evan361425.github.io/blob/acba613d2071c34075c6f1a3bff4d781dea49b71/pagetoc.js
 // Referrer: https://github.com/JorelAli/mdBook-pagetoc/blob/master/sidebar.js
 // Populate sidebar on load
 window.addEventListener("load", function () {

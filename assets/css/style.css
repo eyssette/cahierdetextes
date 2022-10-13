@@ -265,3 +265,30 @@ del {
     display: inline-block;
     text-decoration: none;
 }
+
+nav.pagetoc {
+    position: fixed;
+    width: 300px;
+    background: white;
+    left: 80%;
+    font-size: 12px;
+    padding: 10px;
+}
+
+nav.pagetoc a {
+    display: block;
+    padding-top: 1px;
+    color: #767676;
+}
+
+nav.pagetoc a.h2 {
+    margin-left:5px;
+}
+
+nav.pagetoc a.h3 {
+    margin-left:10px;
+}
+
+nav.pagetoc a.h4 {
+    margin-left:15px;
+}
