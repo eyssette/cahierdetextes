@@ -43,7 +43,7 @@ window.addEventListener("load", function () {
 			pairwise(headers, function (current, next) {
 				const sectionTop = current.offsetTop - 10;
 				const sectionBottom = next.offsetTop - 10;
-				sectionId = current.getAttribute("id");
+				sectionId = current.id;
 				console.log(sectionTop + ' – '+ sectionId);
 				if (
 					scrollY > sectionTop &&
