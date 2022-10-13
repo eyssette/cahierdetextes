@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      {% if site.title and site.title != page.title %}
+      <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
+      {% endif %}
+
+      {{ content }}
+
+      {% if site.github.private != true and site.github.license %}
+      <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+        This site is open source. {% github_edit_link "Improve this page" %}.
+      </div>
+      {% endif %}
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+	<script>
+		window.addEventListener("load", function () {
+			var pagetoc = document.getElementsByClassName("pagetoc")[0];
+			var headers = document.querySelectorAll("h1, h2, h3, h4, h5, h6");
+		  
+			if (headers.length < 2) {
+			  return pagetoc.remove();
+			}
+		  
+			Array.prototype.forEach.call(headers, function (header) {
+			  var pagetocLink = document.createElement("a");
+			  var tagName = header.parentElement.tagName.toLowerCase();
+			  // no need h1, h5~h6
+			  if (!["h2"].includes(tagName)) return;
+		  
+			  pagetocLink.appendChild(document.createTextNode(header.text));
+			  pagetocLink.classList.add(tagName);
+			  pagetocLink.href = header.href;
+			  pagetocLink.setAttribute("data-referrer", header.parentElement.id);
+		  
+			  pagetoc.appendChild(pagetocLink);
+			});
+		  
+			// Active pagetoc element on scroll
+			window.addEventListener(
+			  "scroll",
+			  function () {
+				var pagetoc = document.getElementsByClassName("pagetoc")[0];
+				var activeLink = pagetoc.getAttribute("data-active-link");
+		  
+				// find use position and get activeEl
+				var headers = document.getElementsByClassName("header");
+				var lastHeader;
+				for (var header of headers) {
+				  if (window.pageYOffset >= header.offsetTop) {
+					lastHeader = header;
+				  } else {
+					break;
+				  }
+				}
+				// if same, no need do anything
+				if (activeLink == lastHeader.parentElement.id) {
+				  return;
+				}
+				activeLink = lastHeader.parentElement.id;
+				pagetoc.setAttribute("data-active-link", activeLink);
+		  
+				// Set pagetoc active element
+				Array.prototype.forEach.call(pagetoc.children, function (pagetocLink) {
+				  if (activeLink == pagetocLink.getAttribute("data-referrer")) {
+					pagetocLink.classList.add("active");
+				  } else {
+					pagetocLink.classList.remove("active");
+				  }
+				});
+			  },
+			  false
+			);
+		  });
+		</script>
+  </body>
+</html>
