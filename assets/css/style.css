@@ -270,7 +270,7 @@ nav.pagetoc {
     position: fixed;
     width: 300px;
     background: transparent;
-    left: 80%;
+    left: 82%;
     font-size: 12px;
     padding: 10px;
 }
@@ -291,4 +291,10 @@ nav.pagetoc a.h3 {
 
 nav.pagetoc a.h4 {
     margin-left:15px;
+}
+
+@media screen and (max-width:1700px) {
+    nav.pagetoc {
+        display:none;
+    }
 }
