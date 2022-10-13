@@ -33,9 +33,7 @@ window.addEventListener("load", function () {
 
 			// Get current scroll position
 			let scrollY = window.pageYOffset;
-			console.log(headers);
 			for (var i = 0; i < headers.length - 1; i++) {
-				
 				const sectionTop = headers[i].offsetTop - 10;
 				var sectionBottom;
 				if (i < headers.length-2) {
@@ -47,6 +45,7 @@ window.addEventListener("load", function () {
 				if (
 					scrollY > sectionTop &&
 					scrollY <= sectionBottom
+					&& sectionId != ''
 				) {
 					document.querySelector("a[href*=" + sectionId + "]").classList.add("active");
 				} else {
