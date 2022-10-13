@@ -37,10 +37,11 @@ window.addEventListener("load", function () {
 
 			for (var i = 0; i < headers.length - 1; i++) {
 				const sectionTop = headers[i].offsetTop - 10;
+				var sectionBottom;
 				if (i < headers.length-2) {
-					const sectionBottom = headers[i+1].offsetTop - 10;
+					sectionBottom = headers[i+1].offsetTop - 10;
 				} else {
-					const sectionBottom = document.body.scrollHeightdocument.body.scrollHeight
+					sectionBottom = document.body.scrollHeight;
 				}
 				sectionId = headers[i].id;
 				console.log(sectionTop + ' – '+ sectionId);
