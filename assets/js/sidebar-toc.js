@@ -27,7 +27,7 @@ window.addEventListener("load", function () {
 			for (var i = 0; i < headers.length - 1; i++) {
 				const sectionTop = headers[i].offsetTop - 10;
 				var sectionBottom;
-				if (i < headers.length - 2) {
+				if (i < headers.length - 1) {
 					sectionBottom = headers[i + 1].offsetTop - 10;
 				} else {
 					sectionBottom = document.body.scrollHeight;
