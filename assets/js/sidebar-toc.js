@@ -24,7 +24,7 @@ window.addEventListener("load", function () {
 		function () {
 			let scrollY = window.pageYOffset;
 			var hit = false;
-			for (var i = 0; i < headers.length - 1; i++) {
+			for (var i = 0; i < headers.length ; i++) {
 				const sectionTop = headers[i].offsetTop - 10;
 				var sectionBottom;
 				if (i < headers.length - 1) {
