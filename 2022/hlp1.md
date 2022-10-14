@@ -112,4 +112,4 @@ Travail sur [trois textes sur les humanités](https://nuage03.apps.education.fr/
 - La notion d'ethos
 	- Lecture d'un texte de Ruth Amossy sur la [notion d'ethos chez Aristote et Goffman](https://nuage03.apps.education.fr/index.php/s/ybKAGnipM9qG5op)
 	- Qu'est-ce que l'ethos selon Aristote ?
-	- Qu'est-ce que l'ethos selon Goffman ? `Mercredi 12 octobre – G1 : texte distribué, mais lecture et analyse pas encore terminée`
+	- Qu'est-ce que l'ethos selon Goffman ? `Mercredi 12 octobre – G2 : texte distribué, mais lecture et analyse pas encore terminée`
