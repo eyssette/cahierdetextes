@@ -177,3 +177,37 @@ Jeudi 8 septembre : Débats terminés (reprise à faire)
     - _Matrix_
     - Les dystopies
     - Les personnes qui commettent des atrocités `Lundi 10 octobre : expériences de pensées terminées`
+- Définition de la notion d'expérience de pensée
+- Point méthode sur l'utilisation d'expériences de pensée
+
+##### I – Le but de l'existence n'est pas le bonheur, mais la liberté (Simone de Beauvoir)
+
+- Définition du féminisme
+- Les trois vagues du féminisme
+- Texte de Beauvoir :
+     - Beauvoir pose la question de l'authenticité du bonheur
+          - Le choix de vie que fait une personne est-il un choix libre et source d'un véritable bonheur ? Ou bien ce choix n'est-il qu'une soumission aux normes sociales dominantes qui ne permet pas de se réaliser ?
+- L'exemple de la publicité Moulinex
+ - « Il est toujours facile de déclarer heureuse la situation qu’on veut [...] imposer [à autrui] »
+     - Ce qui est critiqué ici, c'est un ensemble d'usages sociaux et politiques du bonheur. Le prétendu bonheur d'une personne peut en effet masquer des inégalités, des injustices, des situations de domination
+- Mais : que faut-il penser quand c'est la personne elle-même qui déclare qu'elle est heureuse ?
+     - La notion de préférences adaptatives
+- Pour Beauvoir, ce qui est le plus important, c'est la liberté, pas le bonheur. `Jeudi 13 octobre : partie I terminée`
+
+##### II – Si on conçoit le bonheur comme la quête d'une vie accomplie, alors le bonheur est bien le but de l'existence (John Stuart Mill)
+
+- Texte de Mill : lien avec les expériences de pensée faites en introduction
+- Une vie avec plus de plaisirs n'est pas nécessairement une vie meilleure, car ce qui compte ce n'est pas la quantité des plaisirs (en nombre, en intensité, en durée), mais la qualité.
+- La vie bonne n'est pas une simple somme de plaisirs, mais repose sur certaines valeurs : une vie proprement humaine, la réflexion, la conscience morale
+- L'épisode des Lotophages dans l'Odyssée. Le choix d'Hercule
+- La vie bonne repose sur l'exercice et le développement de nos facultés :
+     - la réflexion, la conscience morale ;
+     - mais aussi : nos facultés physiques, l'imagination, la créativité, le lien social …
+- La vie bonne est une vie accomplie : le bien suprême, c'est le perfectionnement de soi.
+     - = une forme de perfectionnisme moral 
+- Cela n'implique pas un modèle déterminé que chacun devrait suivre. Il y a au contraire une valorisation de l'individualité, de la recherche de soi.
+     - Exemple : le film _Le Cercle des poètes disparus_
+- Le bonheur n'est pas l'idéal d'une vie pleine de satisfactions. Le bonheur est l'idéal d'une vie accomplie, pleine de sens, riche et profonde.
+- En ce sens, le bonheur inclut les autres valeurs importantes : la liberté, la justice, la vérité, …
+
+##### Mise en pratique `Vendredi 14 octobre : exercice terminé ; fin du travail sur la question 2`
