@@ -205,3 +205,54 @@ Débats par groupes :
 - En ce sens, le bonheur inclut les autres valeurs importantes : la liberté, la justice, la vérité, …
 
 ##### Mise en pratique `Vendredi 14 octobre : exercice terminé ; fin du travail sur la question 2`
+
+## Chapitre 2 : La morale
+
+*[Lien vers le cours en ligne](https://eyssette.github.io/cours/philo22g/c/s1-ch2.html)*
+
+- Notions principales : la morale, le devoir, la nature
+- Discussion sur des cas d’éthique appliquée `Lundi 17 octobre : discussion terminée`
+
+~~Rédaction sur place de la dissertation : « Le temps est-il un obstacle au bonheur ? »~~ `Jeudi 20 octobre : dissertation rédigée`
+
+- Point méthode : Il est important de donner un sens concret à la notion qu'on travaille. Il faut chercher à la rapporter à des enjeux réels.
+
+### Q1 – Y a-t-il des vérités en morale ?
+
+#### Q1a – La morale est-elle subjective ?
+
+*[Lien vers le cours en ligne](https://eyssette.github.io/cours/philo22g/c/s1-ch2-q1.html#q1a--la-morale-est-elle-subjective-)*
+
+- Exemple de la consommation de viande
+
+##### I – Les jugements moraux sont subjectifs (le subjectivisme moral)
+- Un jugement moral = un jugement de valeur ≠ un jugement de fait
+    - Distinction entre jugement de fait et jugement de valeur
+- Texte de Hume : « Le vice vous échappe totalement, tant que vous considérez l'objet »
+    - Les valeurs ne sont pas des choses extérieures
+    - Le bien et le mal ne sont pas des propriétés objectives dont on pourrait vérifier, constater l'existence dans le monde extérieur.
+    - Un jugement moral est l'expression d'un sentiment subjectif intérieur, comme par exemple le dégoût, l'indignation, la révolte, la culpabilité …
+
+##### II – Les jugements moraux ne sont pas de simples réactions subjectives (l'objectivisme moral)
+- Les jugements de valeur ne sont pas de simples jugements de préférence.
+    - Un jugement de préférence exprime un simple goût personnel.
+    - Un jugement de valeur prétend exprimer une vérité et on peut chercher à justifier ou critiquer ce jugement.
+    - Exemple : le dégoût à l'idée de manger des tarentules frites ou des “pénis de mer” est différent du dégoût face à des actes pédophiles. 
+###### 1/ Il est possible de faire appel à certaines intuitions morales
+- Il semble y avoir certaines évidences morales : torturer un enfant pour le plaisir est un mal, se soucier des autres est un bien
+- Ces évidences constituent des intuitions qui peuvent fournir une première approche de ce qui est moral.
+- Cependant : 
+    - Les intuitions morales ne permettent pas de savoir ce qu'il faut faire dans toutes les situations particulières
+    - Rien ne garantit que nos intuitions morales soient pertinentes : elles sont peut-être le produit d'une idéologie, ou le fruit d'une manière de penser biaisée.
+###### 2/ Il est possible de raisonner en morale et de distinguer des bons et des mauvais raisonnements
+- Point méthode : Un raisonnement consiste à partir de certaines affirmations (qu'on appelle prémisses) pour en tirer une conclusion.
+- Point méthode : Il y a trois stratégies pour critiquer un raisonnement :
+    1. La stratégie "Ah bon ?" : on remet en cause la vérité d'une des prémisses ou de la conclusion.
+    2. La stratégie "Et alors ?" : on montre que les prémisses, même si elles sont vraies, ne permettent pas de justifier la conclusion.
+    3. La stratégie "Euh... Quel est l'argument ?" : on montre qu'il n'y a pas d'argument car il y a une prémisse qui n'a pas de sens ou bien qui ne fait que répéter ou supposer la conclusion (= argument circulaire). `Vendredi 21 octobre : stratégies notées, à reprendre à l'oral`
+
+<!-- #### Q1b – La morale est-elle relative à chaque culture ?
+
+*[Lien vers le cours en ligne](https://eyssette.github.io/cours/philo22g/c/s1-ch2-q1.html#q1b--la-morale-est-elle-relative-%C3%A0-chaque-culture-)*
+
+ -->

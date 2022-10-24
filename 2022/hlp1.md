@@ -71,7 +71,7 @@ Travail sur [trois textes sur les humanités](https://nuage03.apps.education.fr/
     1. La parole permet l'expression de la pensée et plus généralement de notre intériorité
     2. La parole permet la communication avec les autres et elle est au fondement des sociétés et des cultures
     3. La parole est un besoin existentiel : à travers la parole nous affirmons notre existence en tant que personne et notre désir de reconnaissance par les autres.
-- Exercice de [classement de textes](https://nuage03.apps.education.fr/index.php/s/fKLWCM5ACJmS3kf) (les textes ont été découpés pour être mélangés) `Mercredi 21 septembre – G2 : exercice fait et corrigé` `Mercredi 21 septembre – G1 : exercice fait, mais pas encore corrigé`
+- Exercice de [classement de textes](https://nuage03.apps.education.fr/index.php/s/fKLWCM5ACJmS3kf) (les textes ont été découpés pour être mélangés) `Mercredi 21 septembre – G2 : exercice fait et corrigé` `Vendredi 23 septembre – G1 : exercice fait, mais pas encore corrigé`
 - Exemples
 - Analyse des textes
 - Application à un [texte d'Isocrate](https://nuage03.apps.education.fr/index.php/s/YHH696PWxscy3bH)
@@ -82,7 +82,7 @@ Travail sur [trois textes sur les humanités](https://nuage03.apps.education.fr/
 
 - Travail par groupes autour de 2 questions
     - Trouver un maximum d'expressions pour dire "aller aux toilettes". Qui dit ça ? Dans quel contexte ?
-    - Quels sont les mots ou expressions que vous utilisez (avec vos amis, votre famille, ...) et que d'autres personnes ne comprendraient pas (ou pas immédiatement) ?`Mercredi 28 septembre – G2 : travail par groupes tout juste commencé`
+    - Quels sont les mots ou expressions que vous utilisez (avec vos amis, votre famille, ...) et que d'autres personnes ne comprendraient pas (ou pas immédiatement) ?`Mercredi 28 septembre – G2 & Vendredi 30 septembre – G1 : travail par groupes tout juste commencé`
 - Définition de la sociolinguistique
 	- La sociolinguistique est l'étude de la langue du point de vue sociologique. Elle s'intéresse aux variations dans l'usage d'une langue en fonction du contexte social.
 - Travail sur un [texte à propos de la sociolinguistique](https://nuage03.apps.education.fr/index.php/s/3L4THTsY45SxFyi).
@@ -94,7 +94,7 @@ Travail sur [trois textes sur les humanités](https://nuage03.apps.education.fr/
 		- Bourdieu affirme que la langue ne peut pas être comprise de manière abstraite. C'est avant tout une pratique sociale
 		- À travers la langue, la structure sociale est présente. Un échange linguistique est aussi un rapport de forces symbolique et on peut l'analyser comme un échange économique : les discours sont évalués.
 - Carte mentale sur la notion de variations linguistiques : [lien](https://eyssette.github.io/mindmap/variations-linguistiques.html)
-- Extrait d'un documentaire _Baisemain et Mocassins_ : [lien](https://drive.google.com/file/d/1mekwiTlJzmrMroH9K26U7szn66uXTXJF/view?usp=sharing) `Mercredi 5 octobre – G1 & G2 : travail sur l'extrait terminé`
+- Extrait d'un documentaire _Baisemain et Mocassins_ : [lien](https://drive.google.com/file/d/1mekwiTlJzmrMroH9K26U7szn66uXTXJF/view?usp=sharing) `Mercredi 5 octobre – G2 & Vendredi 7 octobre – G1 : travail sur l'extrait terminé`
 - Deux fondateurs de la sociolinguistique : Labov et Bernstein. Présentation des expériences de Labov et des discussions autour du travail de Bernstein (2 textes à lire en approfondissement : sur [Labov](https://nuage03.apps.education.fr/index.php/s/FPEmkTPc8seJM2R) et sur [Berstein](https://nuage03.apps.education.fr/index.php/s/7nWfKJtbJcaMoPD)).
 
 #### Question 3 : La parole exprime-t-elle mon identité ?
@@ -112,4 +112,7 @@ Travail sur [trois textes sur les humanités](https://nuage03.apps.education.fr/
 - La notion d'ethos
 	- Lecture d'un texte de Ruth Amossy sur la [notion d'ethos chez Aristote et Goffman](https://nuage03.apps.education.fr/index.php/s/ybKAGnipM9qG5op)
 	- Qu'est-ce que l'ethos selon Aristote ?
-	- Qu'est-ce que l'ethos selon Goffman ? `Mercredi 12 octobre – G2 : texte distribué, mais lecture et analyse pas encore terminée`
+	- Qu'est-ce que l'ethos selon Goffman ? `Mercredi 12 octobre – G2 & Vendredi 14 octobre – G1 : texte distribué, mais lecture et analyse pas encore terminée`
+- La notion d'identité narrative
+
+~~Point méthode : Rédaction d'un paragraphe argumentatif avec le modèle ARES~~ `Mercredi 19 octobre - G2 & Vendredi 21 octobre – G1 : méthode terminée, exercice à faire pour les vacances (rédaction d'un paragraphe sur l'une des questions travaillées depuis le début de l'année)`
