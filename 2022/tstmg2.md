@@ -128,9 +128,11 @@ Par groupe, faites au moins l'un de ces exercices :
 - Point méthode : Il est important de donner un sens concret à la question posée. Il faut chercher à la rapporter à des enjeux réels.
 
 ##### I – Il n'y a pas de limites morales objectives : les jugements moraux semblent dépendre de l'individu
+
 ###### A. Un jugement moral est un jugement de valeur, et non un jugement de fait
 - Distinction jugement de valeur / jugement de fait
 - Un jugement de valeur semble être une appréciation subjective
+
 ###### B. Chaque culture a son code moral
 - Texte de Lévi-Strauss
 - Lévi-Strauss souligne que chaque société transmet, explicitement (=inculcation) et implicitement (= imprégnation), des valeurs et des normes.
@@ -139,10 +141,12 @@ Par groupe, faites au moins l'un de ces exercices :
 - Exemples : les différentes manières d'exprimer le deuil (extrait de la série _Six Feet Under_), l'endocannibalisme funéraire (texte d'Hérodote)
 
 ##### II – Les limites morales ne sont pas relatives : nous avons des devoirs moraux
+
 ###### A. Le relativisme conduirait à accepter des pratiques intolérables
 - Exemple 1 : Les chats brûlés lors des feux de la St-Jean
 - Exemple 2 : Les hyènes du Malawi
 - Exemple 3 : Les mutilations génitales féminines (l'excision)
+
 ###### B. Les jugements moraux ne sont pas des jugements de préférence subjectifs
 - Un jugement de préférence exprime un simple goût personnel.
 - Un jugement de valeur prétend exprimer une vérité et on peut chercher à justifier ou critiquer ce jugement.

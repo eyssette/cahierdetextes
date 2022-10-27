@@ -238,12 +238,14 @@ Débats par groupes :
     - Un jugement de préférence exprime un simple goût personnel.
     - Un jugement de valeur prétend exprimer une vérité et on peut chercher à justifier ou critiquer ce jugement.
     - Exemple : le dégoût à l'idée de manger des tarentules frites ou des “pénis de mer” est différent du dégoût face à des actes pédophiles. 
+
 ###### 1/ Il est possible de faire appel à certaines intuitions morales
 - Il semble y avoir certaines évidences morales : torturer un enfant pour le plaisir est un mal, se soucier des autres est un bien
 - Ces évidences constituent des intuitions qui peuvent fournir une première approche de ce qui est moral.
 - Cependant : 
     - Les intuitions morales ne permettent pas de savoir ce qu'il faut faire dans toutes les situations particulières
     - Rien ne garantit que nos intuitions morales soient pertinentes : elles sont peut-être le produit d'une idéologie, ou le fruit d'une manière de penser biaisée.
+
 ###### 2/ Il est possible de raisonner en morale et de distinguer des bons et des mauvais raisonnements
 - Point méthode : Un raisonnement consiste à partir de certaines affirmations (qu'on appelle prémisses) pour en tirer une conclusion.
 - Point méthode : Il y a trois stratégies pour critiquer un raisonnement :
