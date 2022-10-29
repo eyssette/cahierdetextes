@@ -106,12 +106,14 @@ Par groupe, faites au moins l'un de ces exercices :
 - Pour être libre, il faut être comme un roc face aux vagues
 
 ##### II – La maîtrise de soi ne suffit pas, car la liberté est avant tout extérieure et dépend de conditions sociales (Bakounine)
+
 ###### A. La liberté intérieure ne suffit pas
 - Texte de Bakounine
 - Bakounine défend une conception perfectionniste de la liberté.
 - La liberté repose sur la possibilité d'exercer et de développer ses facultés. Elle consiste en une forme d'autonomie réelle et de perfectionnement de soi.
 - Pour être réellement autonome, il faut avoir les ressources nécessaires pour pouvoir effectivement réaliser ce que l'on veut.
 - La liberté réelle (= avoir la capacité) se distingue de la liberté formelle (= avoir simplement le droit).
+
 ###### B. La liberté dépend de conditions sociales
 - Texte de Bakounine `Vendredi 14 octobre : texte analysé à l'oral, prise de notes à faire la prochaine fois`
 - Définition : un bien rival est un bien tel que si j'ai plus de ce bien, alors les autres en ont moins.
